@@ -1,0 +1,16 @@
+C:\Users\Imanol\Desktop\Proyecto Final\bin\Debug\net5.0\Proyecto Final.exe
+C:\Users\Imanol\Desktop\Proyecto Final\bin\Debug\net5.0\Proyecto Final.deps.json
+C:\Users\Imanol\Desktop\Proyecto Final\bin\Debug\net5.0\Proyecto Final.runtimeconfig.json
+C:\Users\Imanol\Desktop\Proyecto Final\bin\Debug\net5.0\Proyecto Final.runtimeconfig.dev.json
+C:\Users\Imanol\Desktop\Proyecto Final\bin\Debug\net5.0\Proyecto Final.dll
+C:\Users\Imanol\Desktop\Proyecto Final\bin\Debug\net5.0\ref\Proyecto Final.dll
+C:\Users\Imanol\Desktop\Proyecto Final\bin\Debug\net5.0\Proyecto Final.pdb
+C:\Users\Imanol\Desktop\Proyecto Final\obj\Debug\net5.0\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\Imanol\Desktop\Proyecto Final\obj\Debug\net5.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imanol\Desktop\Proyecto Final\obj\Debug\net5.0\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Imanol\Desktop\Proyecto Final\obj\Debug\net5.0\Proyecto Final.AssemblyInfo.cs
+C:\Users\Imanol\Desktop\Proyecto Final\obj\Debug\net5.0\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Imanol\Desktop\Proyecto Final\obj\Debug\net5.0\Proyecto Final.dll
+C:\Users\Imanol\Desktop\Proyecto Final\obj\Debug\net5.0\ref\Proyecto Final.dll
+C:\Users\Imanol\Desktop\Proyecto Final\obj\Debug\net5.0\Proyecto Final.pdb
+C:\Users\Imanol\Desktop\Proyecto Final\obj\Debug\net5.0\Proyecto Final.genruntimeconfig.cache
